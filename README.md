@@ -1,6 +1,6 @@
 # pdf-archive
 
-Archive of PDFs linked to from my [website](https://patternizer.github.io): patternizer.github.io 
+Archive of PDFs linked to/from my [website](https://patternizer.github.io): patternizer.github.io 
 
 ## Contents
 
@@ -12,6 +12,6 @@ The code is distributed under terms and conditions of the [Open Government Licen
 
 ## Contact information
 
-* [Michael Taylor](michael.a.taylor@uea.ac.uk)
+* [Michael Taylor](michael.taylor@cefas.gov.uk)
 
 
